@@ -9,5 +9,5 @@
 ![image](https://user-images.githubusercontent.com/80818640/228730473-3510a9f5-6072-437f-8b25-d8ce3014f57d.png)
 ## 세 번째 모임
 23/04/06 19:00 ~ 21:30 (2시간 반)<br>
-<b>[학습일지]</b><br>
+<b>[학습일지](https://github.com/lbd0/2023_HanMoCo/tree/main/20230406)</b><br>
 ![image](https://user-images.githubusercontent.com/80818640/230343886-f311eee1-bcb2-4f12-a26f-3bf058fe56e5.png)
