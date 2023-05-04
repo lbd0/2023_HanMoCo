@@ -19,3 +19,7 @@
 23/04/27 14:00 ~ 16:30 (2시간 반)<br>
 <b>[학습일지](https://github.com/lbd0/2023_HanMoCo/tree/main/20230427)</b><br>
 ![image](https://user-images.githubusercontent.com/80818640/234763161-06315855-c080-446b-9c5a-7fae7c18fc49.png)
+## 여섯 번째 모임
+23/04/27 13:00 ~ 15:30 (2시간 반)<br>
+<b>[학습일지](https://github.com/lbd0/2023_HanMoCo/tree/main/20230504)</b><br>
+![image](https://user-images.githubusercontent.com/80818640/236111540-c57db2b1-fa82-4fa5-8109-e55cc2b767e4.png)
